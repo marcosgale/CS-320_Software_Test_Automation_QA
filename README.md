@@ -60,7 +60,7 @@ so catching it at the entry point matters a lot.
 
 ### How do I interpret user needs and incorporate them into a program?
 
-User needs are usually buried inside the requirements — you have to read
+User needs are usually buried inside the requirements, you have to read
 carefully and ask yourself what this feature is actually trying to do for a
 real person. For example, in the Contact Service project, the requirement said
 a contact's ID had to be unique and could never be changed after it was
@@ -76,7 +76,7 @@ do it. Once I understand the goal, I break it into small pieces where each one
 has a single, clear responsibility. That approach made a big difference in this
 course because when each class and method does just one thing, it becomes much
 easier to test and easier to fix when something goes wrong. A design is not
-really done when the code runs — it is done when the tests pass and someone
+really done when the code runs, it is done when the tests pass and someone
 else could read it and understand what is happening without needing an
 explanation.
 
